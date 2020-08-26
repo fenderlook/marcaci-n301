@@ -1,0 +1,12 @@
+co\com\claro\marcacion301\entity\Parametros_.class
+co\com\claro\marcacion301\util\EJBConstants$MENSAJE_EXCEPCION.class
+co\com\claro\marcacion301\entity\requestConsulta.class
+co\com\claro\marcacion301\dao\AbstractDao.class
+co\com\claro\marcacion301\util\EJBConstants$CODIGO_EXCEPCION.class
+co\com\claro\marcacion301\facade\AbstractFacade.class
+co\com\claro\marcacion301\util\EJBConstants.class
+co\com\claro\marcacion301\dao\ParametrosDao.class
+co\com\claro\marcacion301\util\EJBUtils.class
+co\com\claro\marcacion301\entity\Parametros.class
+co\com\claro\marcacion301\facade\ParametrosFacade.class
+co\com\claro\marcacion301\entity\responseConsulta.class
